@@ -41,7 +41,7 @@ export default function Navbar() {
             <Code2 className="w-4 h-4 text-white" />
           </div>
           <span className="font-display font-bold text-lg">
-            Kiran<span className="gradient-text">.</span>
+            Kiran<span className="gradient-text">...</span>
           </span>
         </a>
 
