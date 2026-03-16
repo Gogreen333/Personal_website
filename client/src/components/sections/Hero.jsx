@@ -168,7 +168,7 @@ export default function Hero() {
               <div className="relative w-72 h-72 rounded-full overflow-hidden border-4 border-gradient-to-r border-emerald-500/30 shadow-2xl">
                 <img
                   src="/kiran.jpg"
-                  alt="Hi there!..." 
+                  alt="Kiran" 
                   className="w-full h-full object-cover object-top"
                 /> 
 
